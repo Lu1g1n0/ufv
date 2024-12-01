@@ -9,6 +9,9 @@ Dataset: 2.iris.csv
 Missing values and imputation strategies: https://colab.research.google.com/drive/1PSORtHr7SoVHxk07ybW4e9wI3cj_ATCJ?usp=sharing
 Dataset: 5a.iris_mvs.csv
 
+Analyse gait data, compare subjects and classify using decision tree: https://colab.research.google.com/drive/1ExW8s9jQ8ejz41kx1CrVXEOtRWQi6xeS?usp=sharing
+Data: load subjects gait data. You can use the App "Sensor Logger", available for Android and iOS
+
 Please create your copy of the notebook.
 
 You will need to load the specific dataset in your local folder.
