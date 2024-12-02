@@ -17,3 +17,6 @@ Please create your copy of the notebook.
 You will need to load the specific dataset in your local folder.
 
 Please create/modify the notebook to asnwer the different questions
+
+Please contact me at luigi.borzi@polito.it if you have any questions
+
